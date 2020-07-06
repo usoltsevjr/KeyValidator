@@ -14,7 +14,7 @@
 
 * https://github.com/usoltsevjr/KeyValidator/issues/1
 * https://github.com/usoltsevjr/KeyValidator/issues/2
-* https://github.com/usoltsevjr/KeyValidator/issues/3
+
 
 ## Описание процесса тестирования
 #### В процессе тестирования использовались следующие артефакты:
